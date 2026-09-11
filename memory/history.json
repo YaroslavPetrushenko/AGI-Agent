@@ -1,0 +1,4302 @@
+[
+    {
+        "step": 0,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 1,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 2,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 3,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 4,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 5,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 6,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 7,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 8,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 9,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 10,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 11,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 12,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 13,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                -1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 14,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 15,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 16,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 17,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 18,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 19,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 20,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 21,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 22,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 23,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 24,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 25,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 26,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 27,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 28,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 29,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 30,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 31,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 32,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 33,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 34,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 35,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 36,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 37,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 38,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 39,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 40,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 41,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 42,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 43,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 44,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                -1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 45,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 46,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 47,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 48,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                -1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 49,
+        "state": {
+            "grid": [
+                [
+                    "G",
+                    ".",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 0,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                0
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 1,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 2,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 3,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 4,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 5,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "R"
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 6,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 7,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 8,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 9,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "G",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 10,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 11,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "G",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 12,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 13,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 14,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 15,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 16,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "G",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "R"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 17,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                2,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 18,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                -1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 19,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 20,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                0
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 21,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 22,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 23,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 24,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 25,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                1
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 26,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 27,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                -1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 28,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 29,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 30,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 31,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 32,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 33,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 34,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 35,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    "B",
+                    "."
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 36,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 37,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 38,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 39,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 40,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 41,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 42,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 43,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                0
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                -1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 44,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                0
+            ]
+        },
+        "action": {
+            "type": "swap",
+            "target": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 45,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                1
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 46,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 47,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                0,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 48,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                1,
+                0
+            ]
+        },
+        "reward": -0.1
+    },
+    {
+        "step": 49,
+        "state": {
+            "grid": [
+                [
+                    ".",
+                    ".",
+                    "B"
+                ],
+                [
+                    ".",
+                    "R",
+                    "."
+                ],
+                [
+                    ".",
+                    ".",
+                    "G"
+                ]
+            ],
+            "goal": [
+                "R",
+                "G",
+                "B"
+            ],
+            "actions": [
+                "move",
+                "swap"
+            ],
+            "cursor": [
+                1,
+                2
+            ]
+        },
+        "action": {
+            "type": "move",
+            "direction": [
+                0,
+                1
+            ]
+        },
+        "reward": -0.1
+    }
+]
