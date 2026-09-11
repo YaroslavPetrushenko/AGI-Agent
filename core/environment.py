@@ -17,9 +17,8 @@ def generate_environment():
 
     objects = ALPHABET[:n_objects]
 
-    # случайный целевой порядок в первой строке — это и есть "задачка"
+    # цель всегда фиксированная — собрать объекты по порядку (R G B)
     goal = objects[:]
-    random.shuffle(goal)
 
     # случайно раскидываем объекты по полю
     cells = [[x, y] for x in range(size) for y in range(size)]
